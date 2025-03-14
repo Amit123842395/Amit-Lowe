@@ -20,7 +20,7 @@ For a full description of the project's philosophy click [here](https://devfolio
 
 ### Artificial Intelligence and Machine Learning
 
-#### Classes: Artifical Intelligence, Data Science, Honors Calculus III
+#### Classes: Artifical Intelligence, Data Science, Honors Calculus III, currently self-studying differential equations using MIT OpenCourseWare
 
 #### Bitcoin Predictive Model:
 Used a number of financial indicators to predict the price of Bitcoin. This current model is monetizable (not for any large sum) so it will not be presented in full. That being said, I am happy to answer any questions in person.
