@@ -32,6 +32,11 @@ The hope is to create a monetizable model and I am working on this with a friend
 - Gradient Boosted Trees (Good experience using CatBoost and xgb, as well as pairing these GBT libaries with hyperparameter-optimization libraries such as Optuna)
 - Other assorted tree-based and linear models (e.g. sklearn)
 - Strong command of Numpy and Pandas
+- Java EE
+- SQL
+- JS/TS
+- Solidity
+- C
 
 ### Contact:
 #### Email: al7061@nyu.edu
