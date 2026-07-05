@@ -1,7 +1,7 @@
 # Amit-Lowe
 
 ### Theoretical Cryptography:
-I am currently working under the guidance of Professor Marshall Ball, exploring a number of ideas related to public-key cryptography. In particular we want to expand on a 2020 paper that showed the existence of Chosen-Ciphertext Attack Security (CCA-Security) from Injective Trapdoor Functions (https://eprint.iacr.org/2020/759). This exploration has included reading a number of classic texts related to CCA-Security from Non-Interactive Zero-Knowledge proofs. These traditional methods often use blackbox principles in which CCA-Security is derived from select cryptographic primitives. Likewise, we have analyzed applied approaches to this problem of CCA-Security/NIZKs in which cryptographic objects are directly derived from computational assumptions (Learning with Errors, Learning Parity with Noise, etc.). 
+Worked under the guidance of Professor Marshall Ball, exploring a number of ideas related to public-key cryptography. In particular we sought to expand on a 2020 paper that showed the existence of Chosen-Ciphertext Attack Security (CCA-Security) from Injective Trapdoor Functions (https://eprint.iacr.org/2020/759). This exploration included reading a number of classic texts related to CCA-Security from Non-Interactive Zero-Knowledge proofs. These traditional methods often use blackbox principles in which CCA-Security is derived from select cryptographic primitives. Likewise, we analyzed applied approaches to this problem of CCA-Security/NIZKs in which cryptographic objects are directly derived from computational assumptions (Learning with Errors, Learning Parity with Noise, etc.). 
 
 #### Classes: Cryptography, Independent Research
 
