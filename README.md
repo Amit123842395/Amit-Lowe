@@ -22,7 +22,7 @@ For a full description of the project's philosophy click [here](https://devfolio
 #### Classes: Artifical Intelligence, Data Management & Analysis, Honors Calculus III, Ordinary Differential Equations*
 
 #### Bitcoin Predictive Model:
-Used a number of financial indicators to predict the price of Bitcoin. This current model is monetizable (not for any large sum) so it will not be presented in full. That being said, I am happy to answer any questions in person.
+Used a number of financial indicators to predict the price of Bitcoin, and was able to monetize the model using short-term prediction markets. These markets have changed so the model is not profitable anymore.
 
 #### NFL Predictive Model:
 The hope is to create a monetizable model and I am working on this with a friend, so this will not be presented in full. That being said, I am happy to answer any questions in person.
